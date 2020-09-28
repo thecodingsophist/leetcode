@@ -19,7 +19,7 @@
 #         if i != i+1:
 #             return i
 
-# CODE WITH WHILE LOOP
+# TRY 2: CODE WITH SIMPLE WHILE LOOP
 def single_num(list):
     list.sort()
     if list[0] != list[1]:
@@ -32,6 +32,9 @@ def single_num(list):
             else:
                 i += 2
         return list[-1]
+
+# TRY 3: CODE UP A HASHMAP
+def 
 
 
 if __name__ == "__main__":
